@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-03-06T15:00:01.944385",
+  "stocks": {
+    "MSFT": {
+      "symbol": "MSFT",
+      "price": 410.68,
+      "change": 5.48,
+      "change_percent": 1.3524,
+      "volume": 39001315,
+      "timestamp": "2026-03-06T15:00:02.786241",
+      "source": "Alpha Vantage"
+    }
+  },
+  "crypto": {
+    "bitcoin": {
+      "symbol": "bitcoin",
+      "price": 70635.0,
+      "change_24h": -2.6530632588039857,
+      "timestamp": "2026-03-06T15:00:03.729525",
+      "source": "CoinGecko"
+    },
+    "ethereum": {
+      "symbol": "ethereum",
+      "price": 2074.96,
+      "change_24h": -2.5388306024748895,
+      "timestamp": "2026-03-06T15:00:03.786595",
+      "source": "CoinGecko"
+    },
+    "binancecoin": {
+      "symbol": "binancecoin",
+      "price": 645.39,
+      "change_24h": -1.4663152652740732,
+      "timestamp": "2026-03-06T15:00:04.052458",
+      "source": "CoinGecko"
+    }
+  },
+  "economic": {},
+  "news": []
+}

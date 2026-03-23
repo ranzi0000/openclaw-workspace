@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-03-10T15:00:01.406093",
+  "stocks": {
+    "MSFT": {
+      "symbol": "MSFT",
+      "price": 409.41,
+      "change": 0.45,
+      "change_percent": 0.11,
+      "volume": 30131854,
+      "timestamp": "2026-03-10T15:00:02.374907",
+      "source": "Alpha Vantage"
+    }
+  },
+  "crypto": {
+    "bitcoin": {
+      "symbol": "bitcoin",
+      "price": 69898.0,
+      "change_24h": 3.8955540859828353,
+      "timestamp": "2026-03-10T15:00:03.101236",
+      "source": "CoinGecko"
+    },
+    "ethereum": {
+      "symbol": "ethereum",
+      "price": 2042.93,
+      "change_24h": 2.8879511347122673,
+      "timestamp": "2026-03-10T15:00:03.396056",
+      "source": "CoinGecko"
+    },
+    "binancecoin": {
+      "symbol": "binancecoin",
+      "price": 643.88,
+      "change_24h": 3.2479965478384014,
+      "timestamp": "2026-03-10T15:00:03.720191",
+      "source": "CoinGecko"
+    }
+  },
+  "economic": {
+    "indicator": "GDP",
+    "country": "US",
+    "value": 27292170793214.4,
+    "date": "2023",
+    "timestamp": "2026-03-10T15:00:04.450022",
+    "source": "World Bank"
+  },
+  "news": []
+}

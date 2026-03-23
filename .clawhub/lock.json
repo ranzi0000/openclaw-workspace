@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1774250281171
+    },
+    "stock-analysis": {
+      "version": "6.2.0",
+      "installedAt": 1770539590136
+    },
+    "institutional-flow-tracker": {
+      "version": "0.1.0",
+      "installedAt": 1770539596056
+    },
+    "ai-automation-workflows": {
+      "version": "0.1.1",
+      "installedAt": 1770539599854
+    },
+    "video-cog": {
+      "version": "1.0.2",
+      "installedAt": 1770539603433
+    },
+    "ai-persona-os": {
+      "version": "1.3.3",
+      "installedAt": 1770539609857
+    },
+    "ai-social-media-content": {
+      "version": "0.1.0",
+      "installedAt": 1770539613606
+    },
+    "brand-cog": {
+      "version": "1.0.1",
+      "installedAt": 1770539617395
+    },
+    "crypto-wallet": {
+      "version": "1.0.1",
+      "installedAt": 1770539621353
+    },
+    "cellcog": {
+      "version": "1.0.7",
+      "installedAt": 1770549393173
+    },
+    "evolver": {
+      "version": "1.7.3",
+      "installedAt": 1770563025278
+    },
+    "etf-assistant": {
+      "version": "1.0.1",
+      "installedAt": 1770563990115
+    },
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1774250274933
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1774250278133
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1774250285497
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1774250287750
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1774250290701
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1772436922316
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1774250293398
+    }
+  }
+}
