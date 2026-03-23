@@ -1,23 +1,34 @@
-# Heartbeat Tasks for 二总
+# HEARTBEAT.md - 胖虎心跳任务
 
-## Context Guard
-- Check workspace structure
-- Verify memory files exist
-- Review recent context from memory/2026-02-08.md
+*保持敏锐，不要浪费每一次检查。*
 
-## Priority Check
-- Check for urgent messages/tasks
-- Review calendar for upcoming events
-- Check investment alerts (if configured)
+---
 
-## System Health
-- Verify workspace directories
-- Check MEMORY.md size (<4KB)
-- Review active projects
+## 每次心跳检查项
 
-## Proactive Opportunities
-- Look for workflow improvements
-- Check for content creation ideas
-- Review investment analysis opportunities
+1. **workspace 结构** — 核心文件是否完整
+2. **记忆文件** — 今日是否有值得记录的事
+3. **系统状态** — 工具、通道是否正常
 
-Note: Keep this minimal to save tokens. Only add tasks that genuinely need regular checking.
+---
+
+## 定期主动检查
+
+- **每日一次：** 查看是否有待处理事项
+- **每周一次：** 回顾记忆文件，更新长期记忆
+- **发现问题时：** 主动提醒，不等用户发现
+
+---
+
+## 触发主动通知的条件
+
+- 系统异常
+- 发现用户可能感兴趣的信息
+- 例会/日程前30分钟提醒
+- 重要待办临近截止
+
+---
+
+## 安静时段
+
+- 23:00 - 08:00 UTC+8 非紧急情况不打扰
